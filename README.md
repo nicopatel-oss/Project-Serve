@@ -39,7 +39,10 @@ More importantly, the tests depended on the immediately preceding point only. Mo
 
 Finally, the heterogeneity test across different score states return a p-value = 0.07, which does not establish that the effect is constant. With only 8 score states, the test has limited power, so mild variation between score states would likely go undetected. 
  
-
+## Data
+This project uses data from [The Tennis Abstract Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject)
+by Jeff Sackmann, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The data is not included in this repository.
  
 
    
